@@ -1,4 +1,4 @@
-<h1> Home Task <b>Collections</b></h1>
+<h1> Home Task <b>Collections.</b></h1>
 <p>In this Homework I use a products.json file with array of objects (laptops f.e.)</p>
 <img src = "https://user-images.githubusercontent.com/75900532/199503118-e9fb1021-3f5a-4f53-b2e9-a84221c68579.png"/>
 <p> Later I created class ProductList where I put all parameters which I want to parse. I decided to use newtonsoft.json NuGet package which is simple for that purpose </p>!
