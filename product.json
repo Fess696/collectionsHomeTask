@@ -1,0 +1,62 @@
+﻿[
+  {
+    "ID": 1,
+    "Name": "Inspiron",
+    "Description": "Multimedia",
+    "CategoryID": 1,
+    "Factory": "Dell",
+    "Supplier": "Nix Laptop ",
+    "Price": 500.0
+
+  },
+  {
+    "ID": 2,
+    "Name": "HP460",
+    "Description": "Home",
+    "CategoryID": 2,
+    "Factory": "HP",
+    "Supplier": "Nix Desktop",
+    "Price": 550.00
+
+  },
+  {
+    "ID": 3,
+    "Name": "Thinkpad",
+    "Description": "Multimedia",
+    "CategoryID": 1,
+    "Factory": "Lenovo",
+    "Supplier": "Nix Laptop",
+    "Price": 800.0
+
+  },
+  {
+    "ID": 4,
+    "Name": "MacBook",
+    "Description": "Multimedia",
+    "CategoryID": 1,
+    "Factory": "Apple",
+    "Supplier": "Nix Desktop",
+    "Price": 1300.0
+
+  },
+  {
+    "ID": 5,
+    "Name": "G250",
+    "Description": "Home",
+    "CategoryID": 1,
+    "Factory": "HP",
+    "Supplier": "Nix Laptop",
+    "Price": 400.00
+
+  },
+  {
+    "ID": 6,
+    "Name": "CT250",
+    "Description": "Work",
+    "CategoryID": 2,
+    "Factory": "Comtrade",
+    "Supplier": "Nix Desktop",
+    "Price": 400.0
+
+  }
+]
